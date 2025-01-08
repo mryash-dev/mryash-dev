@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Aesthetic GIF" width="600" height="300">
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -65,6 +65,6 @@
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a>
   <a href="https://longhorn.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/longhornio/longhornio-icon.svg" alt="Longhorn" width="40" height="40"/> 
+    <img src="https://longhorn.io/img/logos/longhorn.svg" alt="Longhorn" width="40" height="40"/> 
   </a>
 </p>
