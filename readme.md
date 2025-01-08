@@ -56,12 +56,15 @@
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/> 
   </a>
   <a href="https://www.sonarqube.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://longhorn.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/longhornio/longhornio-icon.svg" alt="Longhorn" width="40" height="40"/> 
   </a>
 </p>
