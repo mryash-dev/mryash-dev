@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Aesthetic GIF" width="600" height="300">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="DevOps Cloud GIF" width="600" height="300">
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -52,19 +52,4 @@
   <a href="https://nginx.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX" width="40" height="40"/> 
   </a>
-  <a href="https://ubuntu.com" target="_blank"> 
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sonarqube.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
-  <a href="https://longhorn.io" target="_blank"> 
-    <img src="https://longhorn.io/img/logos/longhorn.svg" alt="Longhorn" width="40" height="40"/> 
-  </a>
-</p>
+  <a href="
