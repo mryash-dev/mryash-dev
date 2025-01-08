@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasindu Dissanayake</h1>
 <h3 align="center">A DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300">
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank"> 
@@ -20,9 +24,6 @@
   </a>
   <a href="https://helm.sh" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm Charts" width="40" height="40"/> 
-  </a>
-  <a href="https://longhorn.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/longhornio/longhornio-icon.svg" alt="Longhorn" width="40" height="40"/> 
   </a>
   <a href="https://min.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="40" height="40"/> 
@@ -49,3 +50,20 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
   </a>
 </p>
+
+---
+
+<h3 align="left">📊 Last Year's Contributions:</h3>
+<p align="left">
+  - Contributed to open-source projects like OpenMRS and MetaCall.  
+  - Developed multi-architecture Docker builds and optimized CI/CD pipelines.  
+  - Deployed cloud-native applications using Kubernetes and Helm Charts.  
+  - Worked with AWS, Azure, and DigitalOcean to scale infrastructure and enhance system performance.
+</p>
+
+---
+
+<h3 align="left">🌟 Highlights:</h3>
+- **Automation Expertise**: Built CI/CD pipelines using Jenkins and GitHub Actions.  
+- **Scalable Infrastructure**: Managed Kubernetes clusters and deployed Helm Charts.  
+- **Multi-Cloud Solutions**: Hands-on experience with AWS, Azure, and DigitalOcean.  
