@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasindu Dissanayake</h1>
 <h3 align="center">A DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
 
-- 🔭 I’m currently working on **CI/CD pipelines, Kubernetes orchestration, and cloud-native solutions**  
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana, and CI/CD**  
-- 🌱 I’m currently learning **advanced Kubernetes operators and multi-cloud strategies**  
-- 📫 How to reach me: **dissanayakey4@gmail.com**  
-- ⚡ Fun fact: I love experimenting with open-source projects and automating workflows!  
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank"> 
@@ -22,6 +14,18 @@
   </a>
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
+  </a>
+  <a href="https://helm.sh" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm Charts" width="40" height="40"/> 
+  </a>
+  <a href="https://longhorn.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/longhornio/longhornio-icon.svg" alt="Longhorn" width="40" height="40"/> 
+  </a>
+  <a href="https://min.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="40" height="40"/> 
+  </a>
+  <a href="https://goharbor.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" width="40" height="40"/> 
   </a>
   <a href="https://www.terraform.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> 
@@ -49,17 +53,5 @@
   </a>
   <a href="https://redis.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/yasindu-dissanayake" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Bcoderx6" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
