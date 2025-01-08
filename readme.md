@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
@@ -49,19 +48,4 @@
   <a href="https://grafana.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
   </a>
-</p>
-
----
-
-<h3 align="left">📊 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bcoderx6&show_icons=true&theme=radical" alt="Yasindu's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bcoderx6&theme=radical" alt="Yasindu's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcoderx6&layout=compact&theme=radical" alt="Top Languages" />
 </p>
