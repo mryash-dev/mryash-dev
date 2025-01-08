@@ -53,17 +53,15 @@
 
 ---
 
-<h3 align="left">📊 Last Year's Contributions:</h3>
-<p align="left">
-  - Contributed to open-source projects like OpenMRS and MetaCall.  
-  - Developed multi-architecture Docker builds and optimized CI/CD pipelines.  
-  - Deployed cloud-native applications using Kubernetes and Helm Charts.  
-  - Worked with AWS, Azure, and DigitalOcean to scale infrastructure and enhance system performance.
+<h3 align="left">📊 My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bcoderx6&show_icons=true&theme=radical" alt="Yasindu's GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bcoderx6&theme=radical" alt="Yasindu's GitHub Streak" />
+</p>
 
-<h3 align="left">🌟 Highlights:</h3>
-- **Automation Expertise**: Built CI/CD pipelines using Jenkins and GitHub Actions.  
-- **Scalable Infrastructure**: Managed Kubernetes clusters and deployed Helm Charts.  
-- **Multi-Cloud Solutions**: Hands-on experience with AWS, Azure, and DigitalOcean.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcoderx6&layout=compact&theme=radical" alt="Top Languages" />
+</p>
