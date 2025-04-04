@@ -1,92 +1,90 @@
-<h1 align="center">Hey there 👋, I'm Yasindu Dissanayake</h1>
-<h3 align="center">🚀 DevOps & Infrastructure Engineer | Cloud Automation Fanatic | Open-Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Yasindu Dissanayake</h1>
+<h3 align="center">🚀 DevOps & Infra Engineer • Automating, Scaling, and Securing Infrastructure</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/devops.gif" alt="DevOps Automation GIF" width="600" height="300">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/DevOps.gif" alt="DevOps GIF" width="600"/>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools I Work With</h3>
+<h3 align="center">🛠️ Tools & Platforms I Use</h3>
 
 <p align="center">
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
   </a>
-  <a href="https://www.digitalocean.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
+  <a href="https://www.digitalocean.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="40" height="40" alt="DigitalOcean"/>
   </a>
   <a href="https://cloudflare.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40" alt="Cloudflare"/>
   </a>
   <a href="https://www.twingate.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/5206120/236707771-27aa2e46-2a98-4bb1-8bfa-14497c2c1b4b.png" alt="Twingate" width="40" height="40"/>
+    <img src="https://github.com/yasindud/twingate-logo/raw/main/twingate.png" width="40" height="40" alt="Twingate"/>
   </a>
 
-  <!-- Containerization & Orchestration -->
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <!-- Containers & Orchestration -->
+  <a href="https://docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   </a>
   <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
   </a>
   <a href="https://helm.sh" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Helm"/>
   </a>
   <a href="https://traefik.io" target="_blank">
-    <img src="https://doc.traefik.io/traefik/assets/img/traefik.logo.svg" alt="Traefik" width="40" height="40"/>
+    <img src="https://github.com/yasindud/traefik-logo/raw/main/traefik.png" width="40" height="40" alt="Traefik"/>
   </a>
 
-  <!-- Infra Automation & Registries -->
+  <!-- IaC / Storage -->
   <a href="https://www.terraform.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
   </a>
   <a href="https://min.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="40" height="40" alt="MinIO"/>
   </a>
   <a href="https://goharbor.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/goharbor/artifacts/main/logos/SVG/harbor-icon-color.svg" alt="Harbor" width="40" height="40"/>
+    <img src="https://github.com/yasindud/harbor-logo/raw/main/harbor.png" width="40" height="40" alt="Harbor"/>
   </a>
 
-  <!-- CI/CD & DevOps -->
+  <!-- DevOps Tools -->
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub Actions"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
   </a>
 
-  <!-- Monitoring & Observability -->
+  <!-- Monitoring -->
   <a href="https://prometheus.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" alt="Prometheus"/>
   </a>
   <a href="https://grafana.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
   </a>
 
-  <!-- Web Server -->
+  <!-- Web -->
   <a href="https://nginx.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🏢 I'm currently working as a **DevOps & Infrastructure Engineer Intern** at **Geodd**, fully handling clusters, automating deployments, and managing secure internal services via **Twingate**.
-- 🚀 Building full-stack automation systems using **Terraform + Traefik + Cloudflare DNS** for both bare metal & Kubernetes.
-- 🔐 Passionate about secure infrastructure, SSL automation, and zero-trust networks.
-- 🤝 Contributor to open-source projects like **MetaCall** and **OpenMRS** with a growing PR history.
-- 🎓 Balancing university, internships, and long-term projects like **VaelixCorp**, my personal brand for impactful cloud tools.
-- 🌱 Currently preparing for **CKA**, **GitHub Actions Cert**, and **Terraform Associate** to level up professionally.
+- 💻 DevOps & Infrastructure Intern at **Geodd**
+- 🌐 Building full Terraform + Cloudflare DNS + Traefik reverse proxy automation
+- 🔐 Passionate about zero-trust access, SSL automation, and internal infra security
+- 🛠 Maintaining on-prem and cloud hybrid setups via Twingate
+- 🧠 Preparing for **CKA**, **GitHub Actions**, and **Terraform Associate**
+- 🏗 Creator of **VaelixCorp** – my open-source brand for advanced infra tools
 
 ---
 
-<p align="center">
-  <i>“DevOps isn’t a role — it’s a mindset of building, breaking, and scaling better.”</i>
-</p>
+<p align="center"><i>"Turning bare metal into resilient systems — one automated pipeline at a time."</i></p>
