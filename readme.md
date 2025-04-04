@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yasindu Dissanayake</h1>
-<h3 align="center">🚀 DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
+<h1 align="center">Hey there 👋, I'm Yasindu Dissanayake</h1>
+<h3 align="center">🚀 DevOps & Infrastructure Engineer | Cloud Automation Fanatic | Open-Source Contributor</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="DevOps Cloud GIF" width="600" height="300">
+  <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/devops.gif" alt="DevOps Automation GIF" width="600" height="300">
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ Tech Stack & Tools I Work With</h3>
 
 <p align="center">
-  <!-- Cloud Platforms -->
+  <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
   <a href="https://www.digitalocean.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
@@ -24,7 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
   <a href="https://www.twingate.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/twingate/brand/main/logo-icon-dark.svg" alt="Twingate" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/5206120/236707771-27aa2e46-2a98-4bb1-8bfa-14497c2c1b4b.png" alt="Twingate" width="40" height="40"/>
   </a>
 
   <!-- Containerization & Orchestration -->
@@ -38,21 +35,21 @@
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
   </a>
   <a href="https://traefik.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="Traefik" width="40" height="40"/>
+    <img src="https://doc.traefik.io/traefik/assets/img/traefik.logo.svg" alt="Traefik" width="40" height="40"/>
   </a>
 
-  <!-- Infrastructure & IaC -->
+  <!-- Infra Automation & Registries -->
   <a href="https://www.terraform.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://min.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="40" height="40"/>
   </a>
   <a href="https://goharbor.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/goharbor/artifacts/main/logos/PNG/harbor-icon-color.png" alt="Harbor" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/goharbor/artifacts/main/logos/SVG/harbor-icon-color.svg" alt="Harbor" width="40" height="40"/>
   </a>
 
-  <!-- DevOps & CI/CD -->
+  <!-- CI/CD & DevOps -->
   <a href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -63,7 +60,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
 
-  <!-- Monitoring -->
+  <!-- Monitoring & Observability -->
   <a href="https://prometheus.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
   </a>
@@ -71,14 +68,25 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   </a>
 
-  <!-- Web Servers -->
+  <!-- Web Server -->
   <a href="https://nginx.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
+### 🧠 About Me
+
+- 🏢 I'm currently working as a **DevOps & Infrastructure Engineer Intern** at **Geodd**, fully handling clusters, automating deployments, and managing secure internal services via **Twingate**.
+- 🚀 Building full-stack automation systems using **Terraform + Traefik + Cloudflare DNS** for both bare metal & Kubernetes.
+- 🔐 Passionate about secure infrastructure, SSL automation, and zero-trust networks.
+- 🤝 Contributor to open-source projects like **MetaCall** and **OpenMRS** with a growing PR history.
+- 🎓 Balancing university, internships, and long-term projects like **VaelixCorp**, my personal brand for impactful cloud tools.
+- 🌱 Currently preparing for **CKA**, **GitHub Actions Cert**, and **Terraform Associate** to level up professionally.
+
+---
+
 <p align="center">
-  <i>Building reliable infrastructure and securing every byte in the cloud ☁️</i>
+  <i>“DevOps isn’t a role — it’s a mindset of building, breaking, and scaling better.”</i>
 </p>
