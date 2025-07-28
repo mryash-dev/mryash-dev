@@ -1,55 +1,101 @@
-<h1 align="center">Hi 👋, I'm Yasindu Dissanayake</h1>
-<h3 align="center">A DevOps Enthusiast Automating and Scaling Cloud Infrastructure</h3>
+## 👋 Hi, I'm [Yasindu Dissanayake](https://github.com/Bcoderx)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="DevOps Cloud GIF" width="600" height="300">
-</p>
+- ⚙️ DevOps & Infrastructure Engineer | Cloud Native Enthusiast
+- 🔧 Building secure, scalable CI/CD pipelines and Kubernetes clusters
+- 🌱 Constantly learning: Open Source, Automation, and Infra as Code
+- 📦 Contributor: Apache Airavata (GSoC 2025), MetaCall Core
+- 💬 Ask me about DevOps tools, CI/CD, and Linux stuff
+- 🧑‍🎓 CS Undergraduate at [SLIIT City University](https://sliit.lk)
+- 📫 Reach me at **yasindu.mr@gmail.com**
+- 🌐 Portfolio coming soon at *yasindu.dev*
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://helm.sh" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm Charts" width="40" height="40"/> 
-  </a>
-  <a href="https://min.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="40" height="40"/> 
-  </a>
-  <a href="https://goharbor.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" width="40" height="40"/> 
-  </a>
-  <a href="https://www.terraform.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/features/actions" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://prometheus.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
-  </a>
-  <a href="https://nginx.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX" width="40" height="40"/> 
-  </a>
-  <a href="
+---
+
+## 🔧 Skills & Technologies
+
+### 🛠 Tools & Platforms
+<a><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/terraform.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></a>
+<a><img src="https://img.icons8.com/fluency/48/prometheus.png"/></a>
+<a><img src="https://img.icons8.com/color/48/grafana.png"/></a>
+<a><img src="https://img.icons8.com/ios/50/harbor.png"/></a>
+<a><img src="https://img.icons8.com/fluency/48/linux.png"/></a>
+<a><img src="https://img.icons8.com/fluency/48/000000/teamcity.png"/></a>
+
+### ☁️ Cloud & OS
+<a><img src="https://img.icons8.com/fluency/48/aws.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/digitalocean.png"/></a>
+<a><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+<a><img src="https://img.icons8.com/fluency/48/mac-os.png"/></a>
+
+### 🗃 Databases & Storage
+<a><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
+<a><img src="https://img.icons8.com/color/48/minio.png"/></a>
+<a><img src="https://img.icons8.com/color/48/postgreesql.png"/></a>
+
+---
+
+## 💼 Work Experience
+
+### 💻 Geodd (12/2024 – Present)
+- Managing **Kubernetes clusters** with k3s and MetalLB
+- Integrated **Grafana** and **Prometheus** for observability
+- Deployed MinIO, Harbor, and Longhorn in production
+
+### 🔧 HurryPay (02/2024 – Present)
+- Built CI/CD automation using **GitLab CE**, **Jenkins**, **TeamCity**
+- Hardened infrastructure with Twingate + DNS-01 + SSL
+- Handled remote server access and domain security
+
+---
+
+## 🌍 Open Source Contributions
+
+### 🔹 Google Summer of Code 2025 – Apache Airavata
+- Dockerized core services for dev environments
+- Setup CI/CD with **GitHub Actions**
+- Collaborated with global mentors and community
+
+### 🔸 MetaCall Core Contributor
+- Contributed Docker & CI improvements
+- Merged 20+ PRs including features, fixes, and test coverage
+
+---
+
+## 🎓 Education
+
+**BSc in Computer Science**  
+SLIIT City University (2023–2026)  
+Courses: OS, Web Dev, Networks, Java DS&A
+
+---
+
+## 🧾 Certificates
+- ✅ GitHub Foundations
+- ✅ GitHub Actions
+- ✅ AWS Cloud Quest: Cloud Practitioner
+
+---
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bcoderx&show_icons=true&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcoderx&layout=compact&theme=react&hide_border=true" />
+
+---
+
+## 🤝 Connect with Me
+
+<a href="https://github.com/Bcoderx" target="_blank"><img src="https://img.icons8.com/ios-filled/40/000000/github.png"/></a>
+<a href="https://linkedin.com/in/yasindu-dissanayake" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="mailto:yasindu.mr@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+<a href="https://yasinduu.medium.com" target="_blank"><img src="https://img.icons8.com/ios-filled/40/000000/medium-logo.png"/></a>
+
+---
+
+> ⚡ Fun Fact: I don’t just deploy apps — I automate the entire pipeline.
+
