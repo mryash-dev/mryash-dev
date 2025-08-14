@@ -16,14 +16,11 @@
   </a>
 </p>
 
----
-
 ### 🚀 About Me
 I craft **reliable, automated, and secure infrastructure** for modern applications.  
 Passionate about **Kubernetes**, **Terraform**, and everything that makes ops smooth & scalable.  
 Open-source contributor, currently part of **Google Summer of Code 2025** with the **Apache Software Foundation**.
 
----
 
 ### 🛠 Tech & Tools
 
@@ -38,7 +35,6 @@ Open-source contributor, currently part of **Google Summer of Code 2025** with t
   <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" />
 </p>
 
----
 
 ### 📈 GitHub Stats
 
@@ -47,15 +43,12 @@ Open-source contributor, currently part of **Google Summer of Code 2025** with t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
 
 ### 🌐 Latest Work
-- **Apache Airavata (GSoC 2025)** – Helm-based K8s deployment  
-- **MetaCall CI/CD** – Multi-arch Docker builds with Buildx & QEMU  
+- **Apache Airavata (GSoC 2025)** – Containerized Deployment of Airavata Services
+- **MetaCall CI/CD** – Multi arch Docker builds with Buildx & QEMU  
 - **Infra Blueprints** – Terraform & K8s automation patterns
 
----
-
 <p align="center">
-  <sub>💡 Always exploring new automation ideas · Let's connect!</sub>
+  <sub>💡 Always exploring new automation ideas ·!</sub>
 </p>
