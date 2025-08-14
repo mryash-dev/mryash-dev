@@ -1,69 +1,66 @@
-# Hi there 👋 I'm Yasindu Dissanayake  
+<!-- Profile README for @mryash-dev -->
+<!-- Keep it clean, minimal, and fast-loading -->
 
-🚀 **DevOps & Infrastructure Engineer** | Open-Source Contributor | Cloud Automation Enthusiast  
+<p align="center">
+  <img src="assets/hero.gif" alt="DevOps animated banner" width="860" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mryash-dev&color=brightgreen)  
-![GitHub Followers](https://img.shields.io/github/followers/mryash-dev?label=Followers)  
-![GitHub Stars](https://img.shields.io/github/stars/mryash-dev?label=Stars)  
+<h1 align="center">Hi, I'm Yasindu Dissanayake</h1>
+<p align="center">
+  DevOps & Infrastructure Engineer · Cloud Automation · Open Source
+</p>
 
----
-
-## 🌟 About Me  
-I’m a passionate **DevOps & Infrastructure Engineer** from Sri Lanka 🇱🇰, currently working at **Geodd**.  
-I specialize in **cloud automation, container orchestration, infrastructure as code**, and **security-focused deployments**.  
-I love contributing to **open-source** and building solutions that scale.
-
-- 🎯 **Google Summer of Code 2025** — Apache Software Foundation  
-- 🎓 Pursuing **BSc in Computer Science** at SLIIT City Campus (2023–2026)  
-
----
-
-## 🛠 Tech Stack  
-
-**Cloud & Infra:**  
-`AWS` · `DigitalOcean` · `Canonical MAAS` · `MinIO`  
-
-**Containerization & Orchestration:**  
-`Docker` · `Kubernetes (k3s)` · `Helm` · `MetalLB` · `Cilium (BGP)` · `Longhorn`  
-
-**CI/CD & Automation:**  
-`GitHub Actions` · `GitLab CI` · `Jenkins` · `Terraform` · `SonarQube`  
-
-**Observability & Security:**  
-`Prometheus` · `Grafana` · `HashiCorp Vault`  
-
-**Databases & Storage:**  
-`PostgreSQL` · `MySQL`  
+<p align="center">
+  <a href="https://mryash.dev" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-mryash.dev-111111?logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yasindu-dissanayake/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasindu-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mryash-dev&color=grey&style=flat">
+</p>
 
 ---
 
-## 📜 Certifications  
-- **Terraform Associate** — KodKloud  
-- **GitHub Actions & GitHub Foundations** — GitHub  
-- **AWS Cloud Practitioner / AWS Architecting / AWS for Games** — AWS  
-- **IBM Advanced Kubernetes Operators** · **Docker Essentials** · **Cloud Core**  
+### What I do
+- Build reliable **infrastructure** with IaC and GitOps
+- Ship and scale with **Docker · Kubernetes (k3s) · Helm**
+- Automate with **GitHub Actions · GitLab CI · Terraform**
+- Secure and observe with **Vault · Prometheus · Grafana**
+
+### Tools I reach for
+`AWS` · `DigitalOcean` · `Canonical MAAS` · `MinIO` · `MetalLB` · `Cilium (BGP)` · `Longhorn`  
+`PostgreSQL` · `MySQL` · `Linux (Ubuntu)`
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 **[GSoC 2025 — Apache Airavata](https://summerofcode.withgoogle.com/)**
-> Containerized deployment for Airavata services with Helm & Kubernetes.  
-
-🔹 **[MetaCall CI/CD Pipeline Enhancements](https://github.com/metacall)**
-> Multi-arch Docker builds using Buildx, QEMU, and GitHub Actions.  
-
-🔹 **[DevOps Automation Scripts](https://github.com/mryash-dev)**
-> Collection of automation scripts for infrastructure deployment & monitoring.  
+### Highlights
+- **GSoC 2025 — Apache Software Foundation** (Airavata: containerized deployment on K8s + Helm)
+- **Currently**: DevOps & Infra at **Geodd**
+- **BSc CS (2023–2026)** — SLIIT City Campus
 
 ---
 
-## 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasindu-dissanayake/)  
-[![Website](https://img.shields.io/badge/Portfolio-000?logo=About.me&logoColor=white)](https://mryash.dev)  
+### Selected Work
+- 📦 **MetaCall CI/CD** — Multi-arch Docker builds with Buildx & QEMU  
+  <sub>GitHub Actions pipelines, cache strategy, release automation</sub>  
+- 🧭 **Infra Blueprints** — Terraform modules & K8s add-ons (Helm)  
+  <sub>Reusable patterns for ingress, storage, metrics</sub>  
+- 🔐 **Vault + MinIO Backups** — Automated, versioned, encrypted  
+  <sub>Schedules, retention, restore runbooks</sub>
 
 ---
 
-## 📊 GitHub Stats  
-![Yasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryash-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-dev&layout=compact&theme=tokyonight)  
+### GitHub at a glance
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mryash-dev&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent"
+    alt="GitHub stats" height="140">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryash-dev&layout=compact&theme=transparent&hide_title=true"
+    alt="Top languages" height="140">
+</p>
+
+---
+
+<sub>PS: Open to interesting infra/automation problems. Ping me on LinkedIn or my website.</sub>
