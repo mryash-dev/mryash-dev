@@ -1,5 +1,3 @@
-<!-- Modern Minimal GitHub Profile README for @mryash-dev -->
-
 <p align="center">
   <img src="https://i.ibb.co/ZM9SYmD/devops-dark-banner.gif" alt="DevOps Banner" width="100%" />
 </p>
